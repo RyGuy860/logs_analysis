@@ -24,7 +24,7 @@ The objective of this project is to build queries that answer the following thre
 - Fork and clone the repository https://github.com/udacity/fullstack-nanodegree-vm
 - Next change to this directory in your terminal with cd. Inside, you will find another directory called vagrant. Change directory to the vagrant directory:
 - You will need to unzip news.zip 
--Then cd to the news directory and this will give you access to newsdata.sql and news.py
+-Then cd to the news directory and this will give you access to news.py
 
 4. Starting the virtual machine:
 - From your terminal, inside the vagrant subdirectory, run the command vagrant up
