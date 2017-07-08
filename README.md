@@ -34,8 +34,9 @@ The objective of this project is to build queries that answer the following thre
 - Use the command psql -d news -f newsdata.sql.
 
 7. Views that were created 
-### ok_requests
+
+ok_requests
 - create view ok_requests as select date_trunc('day', time) as date, count(*) as num_ok from log where status = '200 OK' group by date;
 
-### total_requests
+total_requests
 - create view total_requests as select date_trunc('day',time) as date, count(*) as num_total from log group by date;
