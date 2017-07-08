@@ -21,7 +21,7 @@ The objective of this project is to build queries that answer the following thre
 - Windows users: The Installer may ask you to grant network permissions to Vagrant or make a firewall exception. Be sure to allow this.
 
 3. Download the VM configuration:
-- Fork and clone the repository https://github.com/udacity/fullstack-nanodegree-vm.
+- Fork and clone the repository https://github.com/RyGuy860/logs_analysis.git
 - Next change to this directory in your terminal with cd. Inside, you will find another directory called vagrant. Change directory to the vagrant directory:
 
 4. Starting the virtual machine:
